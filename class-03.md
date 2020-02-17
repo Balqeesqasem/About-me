@@ -1,6 +1,6 @@
 # Summary
 
-- I will continue talking about what i learn .
+- I will continue talking about what I learn .
 
 
 ### Lists 
