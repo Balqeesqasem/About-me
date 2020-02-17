@@ -24,6 +24,7 @@ header {
     padding: 20px;
     font-size: 30px;
     background-color: rgb(204, 201, 201);
+    color: rgb(22, 120, 177);
 }
 
 .p2 {
@@ -31,6 +32,37 @@ header {
     color: rgb(22, 120, 177);
     margin: 30px;
     padding: 10px;
+}
+
+.p3 {
+    background-color:  rgb(204, 201, 201);
+    color: rgb(22, 120, 177);
+    margin: 30px;
+    padding: 10px;
+}
+
+.p4 {
+ 
+  font-size: 20px;
+  color: rgb(230, 24, 127);
+  padding: 10px;
+  margin: 10px;
+  margin-left: 50px;
+}
+
+.p5 {
+    margin: 10px;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.p6 {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(236, 174, 174);
 }
 
 main p {
