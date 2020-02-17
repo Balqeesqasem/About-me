@@ -1,5 +1,5 @@
 'use strict';
-alert('welcome to my page ! Are you ready to know more about me?')
+alert('welcome to my page ! Are you ready to know more about me?');
 var whoYouAre = prompt ('First can you told me what is your name');
 // console.log(whoYouAre);
 alert('Hello ' + whoYouAre + ' happy to talk with you!' + ' Lets start!');
@@ -13,7 +13,7 @@ alert('No I did not ! I studied computer engineering');
 
 else if (study === 'NO' || study === 'N')
 {
-alert('I wish i did ! This is a great hobby for me Photography is a beautiful passion , I hope you love to shoot and loves the beauty of pictures, especially nature pictures ');
+alert(' No but i wish i did ! This is a great hobby for me, Photography is a beautiful passion , I hope you love to shoot and loves the beauty of pictures, especially nature pictures ');
 alert('Iam going to put some pictures of myself shot here for some places, I hope you like it')
 }
 else {
