@@ -28,4 +28,27 @@
 9. Centering content.
 10. Change Inline/Block.
 
- 
+
+### Java script 
+
+- *Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands.*
+- *Data types can be coerced from one type to another.*
+
+
+* if -  else statement
+
+The if/else statement executes a block of code if a specified condition is true. If the condition is false, another block of code can be executed.
+
+* switch statement
+
+The switch statement executes a block of code depending on different cases.
+
+ loops :
+
+ * for 
+
+ * while
+
+ * do-while
+
+
