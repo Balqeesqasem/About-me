@@ -14,7 +14,7 @@ alert('No I did not ! I studied computer engineering');
 else if (study === 'NO' || study === 'N')
 {
 alert(' No but i wish i did ! This is a great hobby for me, Photography is a beautiful passion , I hope you love to shoot and loves the beauty of pictures, especially nature pictures ');
-alert('Iam going to put some pictures of myself shot here for some places, I hope you like it')
+alert('Iam going to put Some photos taken by my lens here for some places, I hope you like it')
 }
 else {
 alert('You skip first qustion');
