@@ -108,8 +108,28 @@ for (var i = 0; i< 4; i++) {
     alert('I spent 5 years');
   }
 }
+var placeToTravel=['spain' , 'france' , 'maldives','turkey','italia'];
+for (var j = 0; j< 6; j++){
+  var country= prompt('Choose a country that you think I would like to travel to').toLowerCase;
+  switch (country) {
+  case 'spain':
+  case 'france':
+  case 'maldives':
+  case 'turkey':
+  case 'italia':
+    j=j+10;
+    break;
+  default :
+    break;
+  }
+  if (country === placeToTravel){
+    alert('right');
+    j=j+10;
+    counterForMarke = counterForMarke+1 ;
+  }
+}
 
-alert ('It was a beautiful time, wasnt it? Thank you for your time ' + whoYouAre );
+alert('It was a beautiful time, wasnt it? Thank you for your time ' + whoYouAre);
 alert('Your scoor is : ' + counterForMarke + '/7');
 
 
