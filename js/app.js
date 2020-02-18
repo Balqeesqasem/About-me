@@ -119,8 +119,7 @@ for (var j = 0; j< 6; j++){
   case 'italia':
     j=j+10;
     break;
-  default :
-    break;
+
   }
   if (country === placeToTravel){
     alert('right');
