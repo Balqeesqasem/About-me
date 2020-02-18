@@ -22,8 +22,7 @@ You can include a link like through this statemant :
 
   #### You can open links in a new window
   #### You can create links to open email programs with an email address in the "to" field.
-  #### You can use the id attribute to target elements within 
-  a page that can be linked to.
+  #### You can use the id attribute to target elements within  a page that can be linked to.
 
 
 * *On larger websites it's a good idea to organize your code by placing the pages for each different section of the sit into a new folder.
@@ -97,7 +96,7 @@ Pair programming involves:
  uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs.
 
 
- 
+
 
 
 
