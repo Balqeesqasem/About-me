@@ -8,16 +8,16 @@ var study = prompt (' Do you think that I studied photography at the university?
 // console.log(study);
 
 if (study === 'YES' || study === 'Y' ) {
-alert('No I did not ! I studied computer engineering');
+  alert('No I did not! I studied computer engineering');
 }
 
 else if (study === 'NO' || study === 'N')
 {
-alert(' No but i wish i did ! This is a great hobby for me, Photography is a beautiful passion , I hope you love to shoot and loves the beauty of pictures, especially nature pictures ');
+  alert(' No but i wish i did ! This is a great hobby for me, Photography is a beautiful passion , I hope you love to shoot and loves the beauty of pictures, especially nature pictures ');
 
 }
 else {
-alert('You skip first qustion');
+  alert('You skip first qustion');
 }
 alert('Iam going to put Some photos taken by my lens here for some places, I hope you like it');
 
@@ -25,16 +25,16 @@ var love = prompt (' do you think that i love Reading ?').toUpperCase();
 // console.log(love);
 
 if (love === 'YES' || love === 'Y') {
-alert('Oh thats right i love reading very much');
+  alert('Oh thats right i love reading very much');
 }
 
 else if (love === 'NO' || love ==='N')
 {
-alert('Why do you think that ! Iam reading lover ');
+  alert('Why do you think that ! Iam reading lover ');
 
 }
 else {
-alert('You skip second qustion');
+  alert('You skip second qustion');
 }
 
 
@@ -42,33 +42,33 @@ var book= prompt (' do you think that i love the scientific books more than nove
 // console.log(book);
 
 if (book === 'YES' || book === 'Y') {
-alert('of course not ! I feel bored quickly');
+  alert('of course not ! I feel bored quickly');
 }
 
 else if (book === 'NO' || book === 'N')
 {
-alert(' Yes, the novels are great, but you have to choose them carefully to be as good as you want. There will be some novels that I have read and liked.');
+  alert(' Yes, the novels are great, but you have to choose them carefully to be as good as you want. There will be some novels that I have read and liked.');
 
 }
 else {
-alert('You skip third qustion');
+  alert('You skip third qustion');
 }
 
 var grade= prompt (' do you think that i had graduate easily ?').toUpperCase();
 // console.log(grade);
 
 if (grade === 'YES' || grade === 'Y') {
-alert('of course not ! I suffered until that day');
+  alert('of course not ! I suffered until that day');
 
 }
 
 else if (grade === 'NO' || grade === 'N')
 {
-alert(' right. that was hard!');
+  alert(' right. that was hard!');
 
 }
 else {
-alert('You skip fourth qustion');
+  alert('You skip fourth qustion');
 }
 
 alert('I hope you did not suffer to graduate like me');
@@ -77,17 +77,17 @@ var film= prompt (' do you think that i love Arabic movies more than English?').
 // console.log(film);
 
 if (film === 'YES' || film === 'Y') {
-alert('It is hard to find beautiful Arabic movies, so I dont like them more than english movies The best Arabic movies comedies movies Like Ahmed Helmys films');
+  alert('It is hard to find beautiful Arabic movies, so I dont like them more than english movies The best Arabic movies comedies movies Like Ahmed Helmys films');
 
 }
 
 else if (film === 'NO' || film === 'N')
 {
-alert(' Not all movies, but there are really great movies');
+  alert('Not all movies, but there are really great movies');
 
 }
 else {
-alert('You skip fifth qustion');
+  alert('You skip fifth qustion' );
 }
 
-alert ('It was a beautiful time, wasnt it? Thank you for your time ' + whoYouAre )
+alert ('It was a beautiful time, wasnt it? Thank you for your time ' + whoYouAre );
