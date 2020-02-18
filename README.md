@@ -12,3 +12,13 @@ The site will use an interactive method to find out what you love as well, even 
 
 
 *A big thanks to everyone who was the reason for accessing this site*
+
+
+## New
+
+I've added 10 interests to me and put them on a list.
+
+I added two new questions :
+
+1. The first question is for the user to guess what number I like.
+2. The second question, the user guesses something of my interests.
