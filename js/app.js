@@ -113,9 +113,8 @@ for (var j = 0; j< 6; j++){
   //console.log(j);
   var country= prompt('Choose a country that you think I would like to travel to').toLowerCase();
   if (country === 'spain' || country === 'france' || country === 'maldives' || country === 'turkey' || country === 'italia'){
-
-    alert('right');
     counterForMarke = counterForMarke+1 ;
+    alert('right');
     break;
 
   }
