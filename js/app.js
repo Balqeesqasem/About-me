@@ -115,10 +115,10 @@ for (var j = 0; j< 6; j++){
   if (country === 'spain' || country === 'france' || country === 'maldives' || country === 'turkey' || country === 'italia'){
 
     alert('right');
+    counterForMarke = counterForMarke+1 ;
     break;
 
   }
-  counterForMarke = counterForMarke+1 ;
 }
 alert('I love spain ,france ,maldives,turkey and italia ');
 
