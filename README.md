@@ -22,3 +22,11 @@ I added two new questions :
 
 1. The first question is for the user to guess what number I like.
 2. The second question, the user guesses something of my interests.
+
+
+# pair programing
+
+Navigator : Balqees.
+Driver : Yazan.
+We worked together on it.
+
