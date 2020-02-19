@@ -71,3 +71,9 @@ main p {
   margin-bottom: 20px;
   margin: 60px;
 }
+
+ul{
+  padding: 10px;
+  margin: 10px;
+  margin-left: 50px;
+}
