@@ -1,79 +1,100 @@
+ body  {
+   background-image: url( https://media.kenanaonline.com/photos/1238128/1238128280/1238128280.jpg?1310092495);
+   background-repeat: no-repeat, repeat;
+   background-size: cover;
+   /* background-blend-mode: overlay; */
+
+  }
+ 
+  
  header {
     
     margin: 10px;
-    padding: 50px;
-    text-align: center;
-    font-size: 50px;
-    color: black;
-    background-color: rgb(236, 174, 174);
+    padding: 30px;
+    height:300px;
     
-}  
+    }  
 
+    main{
+      height:20000px;
+     }
 
-  #myimg {
-
-    width: 250px;
-    height: 250px;
-   margin-left: 552px;
-   margin-bottom: 10px;
-   
-} 
-
-.p1 {
-    text-align: center;
-    margin: 30px;
-    padding: 20px;
-    font-size: 30px;
-    background-color: rgb(204, 201, 201);
-    color: rgb(22, 120, 177);
-}
-
-.p2 {
-    background-color:  rgb(204, 201, 201);
-    color: rgb(22, 120, 177);
-    margin: 30px;
-    padding: 10px;
-}
-
-.p3 {
-    background-color:  rgb(204, 201, 201);
-    color: rgb(22, 120, 177);
-    margin: 30px;
-    padding: 10px;
-}
-
-.p4 {
- 
-  font-size: 20px;
-  color: rgb(230, 24, 127);
-  padding: 10px;
-  margin: 10px;
-  margin-left: 50px;
-}
-
-.p5 {
-    margin: 10px;
-    padding: 10px;
-    margin-left: 50px;
-}
-
-.p6 {
-    margin: 5px;
+footer{
+  margin: 5px;
     padding: 5px;
     text-align: center;
     font-size: 15px;
-    color: black;
-    background-color: rgb(236, 174, 174);
+    background-color:  white;
+    color: rgb(22, 120, 177);
+}
+  #myimg {
+
+    width: 280px;
+    height: 280px;
+   margin-left:10px;
+   margin-bottom: 10px;
+   float: left;
+  
+   
+} 
+
+#img1{
+   width: 500px;
+   height: 350px;
+   margin-right:100px;
+   margin-bottom: 200px;
+   float: right;
 }
 
-main p {
-  margin-left: 40px;
-  margin-bottom: 20px;
-  margin: 60px;
+#img2{
+  width: 300px;
+    height: 350px;
+   margin-right:100px;
+   margin-bottom: 200px;
+   float: right;
 }
 
-ul{
-  padding: 10px;
-  margin: 10px;
+.p1 {
+    text-align: center;
+    margin: 40px 500px 300px 100px;
+    padding: 20px;
+    font-size: 30px;
+    font-family: cursive;
+    color:white;
+    float: right;
+}
+
+.p2 {
+  padding: 30px;
+  margin: 30px;
   margin-left: 50px;
+  color:white;
+  font-size: 17px;
+  height:90px;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 20px;
+  word-spacing: 3px;
+  
+}
+
+
+
+.p3 {
+    background-color: white;
+    color: rgb(22, 120, 177);
+    margin: 50px;
+    padding: 10px;
+}
+
+ol{
+  padding: 30px;
+  margin: 30px;
+  margin-left: 50px;
+  color:white;
+  font-size: 17px;
+  height: 300px;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 30px;
 }
