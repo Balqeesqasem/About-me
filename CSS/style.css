@@ -1,135 +1,117 @@
- body  {
-   background-image: url( https://media.kenanaonline.com/photos/1238128/1238128280/1238128280.jpg?1310092495);
-   background-repeat: no-repeat, repeat;
-   background-size: cover;
-   /* background-blend-mode: overlay; */
+body {
+  background-image: url(https://media.kenanaonline.com/photos/1238128/1238128280/1238128280.jpg?1310092495);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
 
-  }
- 
-  
- header {
-    
-    margin: 10px;
-    padding: 30px;
-    height:300px;
-    
-    }  
+header {
+  margin: 10px;
+  padding: 30px;
+  height: 300px;
+}
 
-    main{
-      height:20000px;
-     }
+main {
+  height: 20000px;
+}
 
-footer{
+footer {
   margin: 5px;
-    padding: 5px;
-    text-align: center;
-    font-size: 15px;
-    background-color:  white;
-    color: rgb(22, 120, 177);
-}
-  #myimg {
-
-    width: 280px;
-    height: 280px;
-   margin-left:10px;
-   margin-bottom: 10px;
-   float: left;
-  
-   
-} 
-
-#img1{
-   width: 500px;
-   height: 350px;
-   margin-right:100px;
-   margin-bottom: 200px;
-   float: right;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  background-color: white;
+  color: rgb(22, 120, 177);
 }
 
-#img2{
-   width: 300px;
-   height: 350px;
-   margin-right:100px;
-   margin-bottom: 200px;
-   float: right;
-}
-
-#img3{
-
-  width: 250px;
-  height: 300px;
-  margin-right:150px;
-  margin-bottom: 200px;
-  float: right;
-  border-radius: 50%;
-
-
-}
-
-#img4{
-
-  width: 250px;
-  height: 300px;
-  margin-right:60px;
-  margin-bottom: 200px;
-  float: right;
-  border-radius: 50%;
-
-
-}
-
-#img5{
-
-  width: 250px;
-  height: 300px;
-  margin-right:70px;
-  margin-bottom: 200px;
-  float: right;
-  border-radius: 50%;
-
-
-}
 .p1 {
-    text-align: center;
-    margin: 40px 500px 300px 100px;
-    padding: 20px;
-    font-size: 30px;
-    font-family: cursive;
-    color:white;
-    float: right;
+  text-align: center;
+  margin: 40px 500px 300px 100px;
+  padding: 20px;
+  font-size: 30px;
+  font-family: cursive;
+  color: white;
+  float: right;
 }
 
 .p2 {
   padding: 30px;
   margin: 30px;
   margin-left: 50px;
-  color:white;
+  color: white;
   font-size: 17px;
-  height:90px;
+  height: 90px;
   font-style: italic;
   font-weight: bold;
   line-height: 20px;
   word-spacing: 3px;
-  
 }
-
-
 
 .p3 {
-    background-color: white;
-    color: rgb(22, 120, 177);
-    margin: 50px;
-    padding: 10px;
+  background-color: white;
+  color: rgb(22, 120, 177);
+  margin: 50px;
+  padding: 10px;
 }
 
-ol{
+ol {
   padding: 30px;
   margin: 30px;
   margin-left: 50px;
-  color:white;
+  color: white;
   font-size: 17px;
   height: 300px;
   font-style: italic;
   font-weight: bold;
   line-height: 30px;
+}
+
+#myimg {
+  width: 280px;
+  height: 280px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+#img1 {
+  width: 500px;
+  height: 350px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+  float: right;
+}
+
+#img2 {
+  width: 300px;
+  height: 350px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+  float: right;
+}
+
+#img3 {
+  width: 250px;
+  height: 300px;
+  margin-right: 150px;
+  margin-bottom: 200px;
+  float: right;
+  border-radius: 50%;
+}
+
+#img4 {
+  width: 250px;
+  height: 300px;
+  margin-right: 60px;
+  margin-bottom: 200px;
+  float: right;
+  border-radius: 50%;
+}
+
+#img5 {
+  width: 250px;
+  height: 300px;
+  margin-right: 70px;
+  margin-bottom: 200px;
+  float: right;
+  border-radius: 50%;
 }
