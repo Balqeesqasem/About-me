@@ -53,6 +53,7 @@ footer {
   padding: 10px;
 }
 
+
 ol {
   padding: 30px;
   margin: 30px;
@@ -115,3 +116,32 @@ ol {
   float: right;
   border-radius: 50%;
 }
+
+/* #img6 {
+  width: 600px;
+  height:400px;
+  margin-right: 70px;
+  margin-bottom: 200px;
+  float: right;
+  border: 0px;
+  border-radius: 0%;
+  box-shadow: 0em;
+}
+
+#img7 {
+  width: 200px;
+  height:200px;
+  margin-right: 70px;
+  margin-bottom: 200px;
+  float: right;
+
+}
+
+#img8 {
+  width: 200px;
+  height:200px;
+  margin-right: 70px;
+  margin-bottom: 200px;
+  float: right;
+
+} */
